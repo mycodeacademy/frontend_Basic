@@ -1,0 +1,122 @@
+#header {
+  height:65px;
+	margin: 0 auto;
+  padding: 15px 0;
+  position: relative;
+  background: black;
+}
+
+p.logo-top {
+  color:white;
+  margin-left: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 30px;
+}
+p.logo-bottom {
+  color:white;
+  margin-left: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+}
+p.logo-buttons {
+  color:white;
+  float:right;
+  margin-left: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+}
+.header-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.header-menu > li {
+  float: right;
+  color:white;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+div.art-container {
+  background: white;
+  width: 300px;
+  height: 430px;
+  margin: 40px 40px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: grey;
+  float:left;
+}
+
+img {
+  height:220px;
+  width: 300px;
+}
+
+.art-date {
+  margin: 0px 10px;
+  font-size: 12px;
+}
+
+.art.length {
+  float:right;
+  width: 20px;
+}
+.date-and-time {
+  display: inline-block;
+}
+.right-time {
+  float:right;
+}
+
+.art-information {
+  margin: 0px 10px;
+   
+}
+
+.top-row{
+  margin: 0px 200px;
+}
+ 
+.bottom-row{
+  margin: 0px 200px;
+}
+.information-header {
+  margin: 0px;
+  font-weight: normal;
+  font-size: 22px;
+}
+.information-body {
+  margin: 0px;
+  font-weight: normal;
+  font-size: 13.5px;
+}
+
+.clap-icon {
+  height: 19px;
+  width: 19px;
+  margin: 5px;
+}
+
+.likes-claps {
+  margin: 0;
+}
+
+.claps {
+  list-style-type: none;
+  margin: 3;
+  padding: 0;
+  overflow: hidden;
+}
+
+.claps > li {
+  display: inline-block;
+}
+
+hr {
+  margin: 2;
+  padding: 0;
+}
